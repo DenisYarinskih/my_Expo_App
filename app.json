@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "my_expo_app",
+    "name": "my_Expo_App",
     "slug": "my_expo_app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/DenisYarinskih"
   }
 }
